@@ -1,0 +1,1 @@
+## Repo with my analysis data using Python, taking its features to explore many different data types. I learned how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and so on!

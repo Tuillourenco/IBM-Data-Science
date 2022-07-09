@@ -1,0 +1,1 @@
+## Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language used to communicate with and extract data from databases. Working knowledge of databases and SQL is a substantial part of my knowledge of becoming a data scientist.
